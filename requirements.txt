@@ -1,0 +1,7 @@
+fastapi
+faster-whisper
+python-dotenv
+python-multipart
+requests
+twilio
+uvicorn
