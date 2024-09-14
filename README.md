@@ -4,9 +4,7 @@ This project is a FastAPI-based web service that transcribes a users WhatsApp
 audio files using the Whisper model and sends the transcriptions via Twilio back
 to the user.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0c291ac1-bfb0-45ed-937d-af23df6759a7" width="500" />
-</p>
+https://github.com/user-attachments/assets/4916d08d-0511-445a-833f-af93c0ea896b
 
 ## Features
 
